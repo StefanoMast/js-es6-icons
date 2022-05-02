@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.wrapper {
+#wrapper {
     display: flex;
     justify-content: start;
     flex-wrap: wrap;
@@ -17,7 +17,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100px;
+    width: 200px;
     height: 100px;
     background-color: lightgray;
 }
